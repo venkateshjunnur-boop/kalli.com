@@ -1,0 +1,12 @@
+hello = []
+print("starting with empty list :")
+hello.append(10)
+print("ofter appending list ",hello)
+hello.insert(0,15)
+print("ofter inserting list ",hello)
+hello.remove(15)
+print("ofter removing a element on list i.e 15 :",hello)
+popped = hello.pop()
+print("removing last element on list",popped)
+hello.clear()
+print("ofter clearing all the list elements :",hello)

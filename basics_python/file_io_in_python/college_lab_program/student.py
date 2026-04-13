@@ -1,0 +1,12 @@
+# name = input("enter a student name >> ")
+# USN = input("enter your USN >>")
+# marks1 = int(input("enter 1st subject marks"))
+# marks2 =int(input("enter you 2nd subject marks "))
+# marks3 = int(input("enter your 3rd subject marks "))
+# print("student detailes ..................")
+# print("student name is ",name)
+# print("USN is ",USN)
+# totalmarks =marks1+marks2+marks3
+# print("total marks the student oftained",totalmarks)
+# per = ((marks1+marks2+marks3)/3)
+# print("persentage you obtained ",per)

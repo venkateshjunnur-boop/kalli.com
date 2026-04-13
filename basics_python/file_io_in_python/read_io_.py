@@ -1,0 +1,10 @@
+# f = open("demo.py","r")
+# data = f.read()
+# print(data)
+# print(type(data))
+# f.close()
+
+f = open("/workspaces/kalli.com/basics_python/file_io_in_python/demo2.txt","r")
+data = f.read()
+print(data)
+f.close()
