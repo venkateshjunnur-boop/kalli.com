@@ -33,10 +33,3 @@
 # print(list)
 # list.clear()
 # print(list)
-h ={
-    "name" : "raju",
-    "number" : 20 
-}
-print(type(h))
-print(h)
-print(h["name"])
