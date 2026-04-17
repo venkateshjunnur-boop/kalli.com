@@ -11,5 +11,3 @@ list.count(10) #count the element repitation appears
 print(list)
 list.clear() #clears the all elments in list 
 print(list)
-print(list.sort==reversed) #sort the list elment on reverse order 
-print(list)
