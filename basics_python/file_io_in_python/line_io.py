@@ -9,8 +9,8 @@
 
 # f.close
 
-# f = open("demo.txt","w")
-# data =f.write("show your id please")
-# print(data)
-# f.close()
+f = open("demo.txt","r")
+data =f.read()
+print(data)
+f.close()
 
